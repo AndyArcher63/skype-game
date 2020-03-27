@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3aa45e36dd268903688584b3cfc115a",
+    "revision": "82ff90be7c524bec6a9a87768ead42e2",
     "url": "/skype-game/index.html"
   },
   {
-    "revision": "8009f011fc27d87daf12",
-    "url": "/skype-game/static/css/main.6af66c4b.chunk.css"
+    "revision": "8870038a143312b45c4f",
+    "url": "/skype-game/static/css/main.f68b7fb9.chunk.css"
   },
   {
     "revision": "2cf41927b6f5ffce5598",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skype-game/static/js/2.962b852e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8009f011fc27d87daf12",
-    "url": "/skype-game/static/js/main.62cf3e9a.chunk.js"
+    "revision": "8870038a143312b45c4f",
+    "url": "/skype-game/static/js/main.6987b32d.chunk.js"
   },
   {
     "revision": "51405780cb712e949c72",
