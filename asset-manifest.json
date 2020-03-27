@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/skype-game/static/css/main.1e4fd6bf.chunk.css",
-    "main.js": "/skype-game/static/js/main.14104e34.chunk.js",
-    "main.js.map": "/skype-game/static/js/main.14104e34.chunk.js.map",
+    "main.css": "/skype-game/static/css/main.8ef70b68.chunk.css",
+    "main.js": "/skype-game/static/js/main.e0b0b229.chunk.js",
+    "main.js.map": "/skype-game/static/js/main.e0b0b229.chunk.js.map",
     "runtime-main.js": "/skype-game/static/js/runtime-main.307a5069.js",
     "runtime-main.js.map": "/skype-game/static/js/runtime-main.307a5069.js.map",
     "static/js/2.3a15c2e1.chunk.js": "/skype-game/static/js/2.3a15c2e1.chunk.js",
     "static/js/2.3a15c2e1.chunk.js.map": "/skype-game/static/js/2.3a15c2e1.chunk.js.map",
     "index.html": "/skype-game/index.html",
-    "precache-manifest.1be619c2c132224fda39b973efd15c00.js": "/skype-game/precache-manifest.1be619c2c132224fda39b973efd15c00.js",
+    "precache-manifest.c91b7413a946a70b4fde1e22456942f5.js": "/skype-game/precache-manifest.c91b7413a946a70b4fde1e22456942f5.js",
     "service-worker.js": "/skype-game/service-worker.js",
-    "static/css/main.1e4fd6bf.chunk.css.map": "/skype-game/static/css/main.1e4fd6bf.chunk.css.map",
+    "static/css/main.8ef70b68.chunk.css.map": "/skype-game/static/css/main.8ef70b68.chunk.css.map",
     "static/js/2.3a15c2e1.chunk.js.LICENSE.txt": "/skype-game/static/js/2.3a15c2e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.307a5069.js",
     "static/js/2.3a15c2e1.chunk.js",
-    "static/css/main.1e4fd6bf.chunk.css",
-    "static/js/main.14104e34.chunk.js"
+    "static/css/main.8ef70b68.chunk.css",
+    "static/js/main.e0b0b229.chunk.js"
   ]
 }
