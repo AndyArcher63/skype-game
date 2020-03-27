@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/skype-game/precache-manifest.0da744eff0ee3e2db50b15553ca57d81.js"
+  "/skype-game/precache-manifest.9e969dd13bf4cfc703eddda08250389b.js"
 );
 
 self.addEventListener('message', (event) => {
